@@ -15,7 +15,7 @@ $ ls
 
 $ cd hack-pyrrous
 
-$ python hack-pyrrous
+$ python PYRROUS-V1.py
 
 
 example 
