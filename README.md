@@ -9,7 +9,7 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/pyrrous-V1/hack-pyrrous.git
+$ git clone https://github.com/pyrrous-V1/hack-pyrrous
 
 $ ls
 
